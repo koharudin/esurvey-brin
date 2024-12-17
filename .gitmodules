@@ -1,0 +1,9 @@
+[submodule "esurvey-web"]
+	path = esurvey-web
+	url = https://github.com/koharudin/esurvey-web.git
+[submodule "esurvey-mobile"]
+	path = esurvey-mobile
+	url = https://github.com/koharudin/esurvey-mobile.git
+[submodule "esurvey-cert"]
+	path = esurvey-cert
+	url = https://github.com/koharudin/esurvey-cert.git
